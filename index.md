@@ -8,6 +8,7 @@ Well met! I'm Duxploit.
   <script src="https://tryhackme.com/badge/3207085"></script>
 </div>
 
+# Categories
 
 <!-- Categories -->
 - [CTF Writeups]({{ [site.baseurl](https://duxploit.github.io/) }}/ctf-writeups)

@@ -8,6 +8,12 @@ Well met! I'm Duxploit.
   <script src="https://tryhackme.com/badge/3207085"></script>
 </div>
 
+
+<!-- Categories -->
+- [Home]({{ [site.baseurl](https://duxploit.github.io/) }}/index.md)
+- [CTF Writeups]({{ [site.baseurl](https://duxploit.github.io/) }}/ctf-writeups)
+- [Scripts]({{ [site.baseurl](https://duxploit.github.io/) }}/Scripts)
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).

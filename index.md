@@ -10,7 +10,6 @@ Well met! I'm Duxploit.
 
 
 <!-- Categories -->
-- [Home]({{ [site.baseurl](https://duxploit.github.io/) }}/index.md)
 - [CTF Writeups]({{ [site.baseurl](https://duxploit.github.io/) }}/ctf-writeups)
 - [Scripts]({{ [site.baseurl](https://duxploit.github.io/) }}/Scripts)
 

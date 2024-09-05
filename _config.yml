@@ -3,3 +3,8 @@ description: Welcome to my ethical hacking journey.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+collections:
+  ctf-writeups:
+    output: true
+  Scripts:
+    output: true

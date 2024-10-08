@@ -5,7 +5,7 @@ Well met! I'm Duxploit.
 
 <!-- TryHackMe profile script -->
 <div>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3207085" style='border:none;'></iframe>
+  <script src="https://tryhackme.com/badge/3207085"></script>
 </div>
 
 ### Categories
